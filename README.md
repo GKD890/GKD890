@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GKD890
-- 👀 I’m interested in machine learning, ACG industry
+- 👀 I’m interested in machine learning, robotics, web development, ACG industry
 - 🌱 I’m currently learning C++, machine Learning, signal processing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to a position as a frontend developer or web developer.
 - 📫 How to reach me ...
 
 <!---
