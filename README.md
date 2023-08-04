@@ -5,7 +5,7 @@
 - I’m looking to a position as a **Frontend | Full Stack | React | JavaScript | Web developer**.
 - ---
   ### How to reach me 
-   - ✉️ [yubos1835@outlook.com](yubos1835@outlook.com)
+   - ✉️ [yubos1835@outlook.com](mailto:yubos1835@outlook.com)
    - 👉 [LinkedIn](https://www.linkedin.com/in/yubo-sun-822117214/) Homepage
 <!---
 GKD890/GKD890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
